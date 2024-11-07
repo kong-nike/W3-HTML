@@ -1,0 +1,65 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+.A{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin:100px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+button{
+    border-radius:30px;
+    border: 0px;
+}
+.B{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin:100px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;    
+}
+.C{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin:100px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.A button{
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+}
+.B button{
+    background-color:beige;
+    color: rgb(0, 0, 0);
+}
+.C button{
+    background-color: aquamarine;
+    color: rgb(0, 0, 0);
+}
+.A button:hover{
+    background-color: rgb(91, 28, 28);
+    color: aliceblue;
+}
+.B button:hover{
+    background-color: rgb(91, 28, 28);
+    color: aliceblue;
+}
+.C button:hover{
+    background-color: rgb(91, 28, 28);
+    color: aliceblue;
+}
